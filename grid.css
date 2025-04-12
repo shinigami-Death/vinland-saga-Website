@@ -309,7 +309,7 @@ body{
 }
 .bos1{
     position: absolute;
-    background-image: url(./images/vs.jpg);
+    background-image: url('./images/vs.jpg');
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -322,7 +322,7 @@ body{
 }
 .bos2{
     position: absolute;
-    background-image: url(./images/nas3.png);
+    background-image: url('./images/nas3.png');
     background-size: cover;
     background-position: top;
     top: 40px;
@@ -335,7 +335,7 @@ body{
     position: absolute;
     top: 550px;
     left: 30px;
-    background-image: url(./images/berserk2.png);
+    background-image: url('./images/berserk2.png');
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -349,7 +349,7 @@ body{
     position: absolute;
     top: 550px;
     left: 320px;
-    background-image: url(./images/baki.png);
+    background-image: url('./images/baki.png');
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -359,7 +359,7 @@ body{
 }
 .bos5{
     position: absolute;
-    background-image: url(./images/one\ piece.jpg);
+    background-image: url('./images/one\ piece.jpg');
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -371,7 +371,7 @@ body{
 }
 .bos6{
     position: absolute;
-    background-image: url(./images/jojo.png);
+    background-image: url('./images/jojo.png');
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -383,7 +383,7 @@ body{
 }
 .bos7{
     position: absolute;
-    background-image: url(./images/slayer.png);
+    background-image: url('./images/slayer.png');
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -746,7 +746,7 @@ body{
     
   }
   .picture{
-    background-image: url('./images/vs.jpg');
+    background-image: url(./images/vs.jpg);
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
