@@ -746,7 +746,7 @@ body{
     
   }
   .picture{
-    background-image: url(./images/vs.jpg);
+    background-image: url('./images/vs.jpg');
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
