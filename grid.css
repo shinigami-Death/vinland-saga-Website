@@ -90,7 +90,7 @@ body{
     font-size: 30px; 
     cursor: pointer; 
     z-index: 3; 
-    margin-top:30px;
+    margin-top:50px;
 }
 
 #btn:hover {
